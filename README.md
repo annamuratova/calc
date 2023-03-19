@@ -1,4 +1,2 @@
-# proba
-Bir narsala
-Ikki narsala
-Uch narsala
+# calc
+Веб калькулятор
